@@ -1,0 +1,7 @@
+nav ul li a,ul li{
+    text-decoration: none;/* DESCENDANT selector*/
+    list-style: none;
+}
+ul>li{
+    display: inline;  /* i used child combinator to display inline*/
+}

@@ -1,0 +1,8 @@
+h1::after{
+    content: "PW";
+    color: red; /* here is used pseudo selector to write content after h1*/
+}
+h1::before{
+    content: "I Learning FSD . ";
+    color:blue; /* i added text before h1 tag */
+}

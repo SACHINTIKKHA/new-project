@@ -1,0 +1,11 @@
+ul li a{
+    color: red; /*DESCENDANT SELECTOR*/
+}
+nav>h2{
+    color: green;
+    background-color: yellow;       /*CHILD SELECTOR*/
+}
+p:first-of-type{
+    color:red;      /* FIRST-OF-TYPE*/
+}
+/* this answer will be the part of ques 01 ( A , B )*/

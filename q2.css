@@ -1,0 +1,14 @@
+
+nav>ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    
+}
+[href]{
+    text-decoration: none;
+}
+{
+    color:red
+}
+

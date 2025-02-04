@@ -1,0 +1,11 @@
+[href]{
+    color: red;
+    text-decoration: none;  /* href is attribute*/
+}
+a.active{
+    color:blue; 
+    text-decoration: underline;
+}
+[target="_self"]{
+    background-color: yellow;
+}
